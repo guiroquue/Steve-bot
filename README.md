@@ -7,8 +7,8 @@ The bot was developed as a learning project to practice integrating APIs, handli
 ## Prerequisites
 Before running the bot, you need to have the following installed:
 
-- [Node.js](https://nodejs.org/) (Recommended version: 16.x or higher)
-- [npm](https://www.npmjs.com/) (comes bundled with Node.js)
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
 
 You also need your own discord bot token and client id, if you want to run this bot
  - Replace these placeholders in the **./data/config.json** file </br>
